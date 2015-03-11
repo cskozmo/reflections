@@ -14,3 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use the staging area to check the differences between the files you
 have worked on and what is in the most recent commit and use that information
 to commit after each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Using branches would be helpful whenever you are making changes that you
+don't want to affect your main version. This could be because you are using the
+main version as a base and creating something different or because you are
+trying things with your code that might not work yet and want to retain a
+working version.
