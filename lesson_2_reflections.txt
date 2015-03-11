@@ -9,3 +9,8 @@ on and changed in a particular commit, whereas the working directory and
 the repository are the entire project. The value comes from being able to just
 focus on the files that actually change, rather than putting the entire
 working directory into the repository for each commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use the staging area to check the differences between the files you
+have worked on and what is in the most recent commit and use that information
+to commit after each logical change.
