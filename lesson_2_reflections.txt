@@ -21,3 +21,6 @@ don't want to affect your main version. This could be because you are using the
 main version as a base and creating something different or because you are
 trying things with your code that might not work yet and want to retain a
 working version.
+
+How do the diagrams help you visualize the branch structure?
+By literally visualizing the branch structure.
